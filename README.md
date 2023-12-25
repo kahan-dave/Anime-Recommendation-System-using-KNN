@@ -43,10 +43,6 @@
 
 </br></br>
 
-## **Exploratory Data Analysis**
-
-![This is an image](Images/EDA.png)
-</br></br>
 
 
 ## **Data Pre-Processing**
