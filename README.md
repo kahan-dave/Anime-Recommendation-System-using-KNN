@@ -1,6 +1,5 @@
 # **Anime Recommendation System using KNN**
 ### **Kahan Dave**
-### **Hussain Bhojani**
 </br></br>
 
 ## **Introduction**
